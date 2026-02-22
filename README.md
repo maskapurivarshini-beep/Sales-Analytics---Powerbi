@@ -43,6 +43,7 @@ Total Amount Last Year =CALCULATE([Total Amount],SAMEPERIODLASTYEAR(Calendar[Dat
 ![WhatsApp Image 2026-02-19 at 23 28 50](https://github.com/user-attachments/assets/e2e4defb-9d03-4178-ba79-fc8a04c13581)
 
 
+
 Advanced Techniques Used:
 
 Data binning (25-box grouping for histogram clarity)
