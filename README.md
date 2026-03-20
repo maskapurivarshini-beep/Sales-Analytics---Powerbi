@@ -6,7 +6,7 @@ End-to-End Power BI Business Intelligence Solution
 Click below to watch the full dashboard demo:
 
 Show Image
-🔗 ▶ Watch Full Dashboard Walkthrough on YouTube(https://youtu.be/https://youtu.be/SPh57nZFDu4)
+🔗 ▶ Watch Full Dashboard Walkthrough on YouTube(https://youtu.be/SPh57nZFDu4?si=OhFAD_Q2wVOrwA3t)
 
 1. Project Overview
 This project delivers a full-scale Sales Analytics Dashboard for a
